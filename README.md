@@ -6,6 +6,6 @@ Things I've finished up so far:
 - Stochastic Gradient Descent: [notebook](https://github.com/dgum/mini_projects/blob/main/Stochastic_Gradient_Descent.ipynb)
 
 Things I want to do next:  
-- Code a few layer NN from scratch
+- Code a small NN from scratch
 - Code a CNN from scratch
 - Code a Transformer from scratch
